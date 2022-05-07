@@ -9,7 +9,7 @@ scr_path = "..\dom5inspector\images\sprites"
 
 dest_path = "sprites"
 
-factor = 5
+factor = 8
 
 import os
 import PIL
